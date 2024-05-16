@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "id": "a832",
+      "name": "asd",
+      "price": "4",
+      "type": "ads",
+      "brand": "dsa"
+    },
+    {
+      "id": "6be5",
+      "name": "aaa",
+      "price": "4",
+      "type": "ddd",
+      "brand": "sss"
+    }
+  ]
+}
